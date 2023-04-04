@@ -23,4 +23,4 @@ run this command to make the chatGPT python file into .exe for windows
 pyinstaller --onefile chatGPT.py
 
 
-and that's it, all enjoy!
+and that's it, enjoy!
